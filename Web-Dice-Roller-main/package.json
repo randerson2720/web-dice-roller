@@ -1,0 +1,11 @@
+{
+  "name": "web-dice-roller",
+  "version": "1.0.0",
+  "description": "A web dice game where if you roll a 7 or an 11 you win!",
+  "main": "webdiceroller.js",
+  "author": "Ryan Anderson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+}
+}
